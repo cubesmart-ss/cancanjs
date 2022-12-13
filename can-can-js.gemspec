@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Eric Hankins"]
   spec.description   = "Apply CanCan rules in JS"
   spec.summary       = "Apply CanCan rules in JS"
-  spec.homepage      = "https://github.com/rednovalabs/cancanjs"
+  spec.homepage      = "https://github.com/cubesmart-ss/cancanjs"
   spec.files         = `find ./* -type f | cut -b 3-`.split($/)
   spec.require_paths = ["lib"]
 
